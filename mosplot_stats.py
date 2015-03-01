@@ -20,8 +20,8 @@ proof_items_index = 2
 files_index = 3
 
 # params
-outfile_name = "stats_minox_feb.pdf"
-infile_name = "minox_stats_24_feb.csv"
+outfile_name = "stats_feb.pdf"
+infile_name = "data/stats_24_feb.csv"
 
 x_label = "Count"
 y_label = "Frequency"
